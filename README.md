@@ -12,7 +12,10 @@ In this workshop, we will cover the following:
 ![TF-Hub logo](tf_hub_logo.png)
 
 ## Setup:
-There is no local setup and requirements for this workshop
+There is no local setup for this workshop
+
+## Requirements:
+* To access the Kaggle notebook, a Kaggle account is required. Create an account following this tutorial: https://medium.com/wids-mysore/getting-started-with-kaggle-de4d3a9d34cf 
 
 ## Usage
 * Open the following link on Kaggle notebooks: https://www.kaggle.com/usharengaraju/pyladiesamsterdam-introductiontotf-hub
