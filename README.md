@@ -1,5 +1,5 @@
 
-# An introduction to TF-Hub and Object Detection with TF-Hub 
+# An introduction to TF-Hub
 ### Level: Beginner
 ### Presentation: https://www.kaggle.com/usharengaraju/pyladiesamsterdam-introductiontotf-hub
 
@@ -20,6 +20,9 @@ There is no local setup for this workshop
 ## Usage
 * Open the following link on Kaggle notebooks: https://www.kaggle.com/usharengaraju/pyladiesamsterdam-introductiontotf-hub
 * Dive in and code hands-on 
+
+## Video record
+Will be available after the 7th of December
 
 ## Credits
 This workshop was set up by @pyladiesams and @ushareng
