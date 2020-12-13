@@ -22,7 +22,7 @@ There is no local setup for this workshop
 * Dive in and code hands-on 
 
 ## Video record
-Will be available after the 7th of December
+[An introduction to TF-Hub](https://youtu.be/ho6iZ9o_528)
 
 ## Credits
 This workshop was set up by @pyladiesams and @ushareng
